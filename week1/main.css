@@ -1,0 +1,34 @@
+
+
+body{
+    background-color: purple;
+}
+
+/*class selector*/
+.archieBunker{
+    font-family:  fantasy;
+}
+
+.box-structure{
+    margin: 20px;
+    width: 100px;
+    margin: auto;
+}
+
+.box2{
+    background-color: aliceblue;
+}
+
+.box-warning{
+    background-color: red;
+    font-size: 24px;
+}
+
+
+
+/*ID Selector*/
+#super-div{
+    
+}
+
+/*Selecting by ID is very narrowly focused, only one element can have the id*/
